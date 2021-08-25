@@ -64,6 +64,6 @@ h4 {
     background-color: #3F703F;
 }
 
-body{
-    padding-left: 15px; 
+.actions a {
+    float: right;
 }
